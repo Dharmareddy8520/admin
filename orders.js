@@ -1,0 +1,51 @@
+const RECENT_ORDER_DATA = [
+  {
+    productName: "Drone",
+    productNumber: "85631",
+    payment: "Due",
+    status: "Pending",
+    statusColor: "warning",
+  },
+  {
+    productName: "king",
+    productNumber: "36",
+    payment: "jungle",
+    status: "Declined",
+    statusColor: "primary",
+  },
+  {
+    productName: "Ruko ",
+    productNumber: "493",
+    payment: "Due",
+    status: "Pending",
+    statusColor: "warning",
+  },
+  {
+    productName: " Camera Drone",
+    productNumber: "9",
+    payment: "Paid",
+    status: "Delivered",
+    statusColor: "primary",
+  },
+  {
+    productName: "GPS 4k",
+    productNumber: "22821",
+    payment: "Paid",
+    status: "Delivered",
+    statusColor: "primary",
+  },
+  {
+    productName: "Air 2S",
+    productNumber: "81475",
+    payment: "Due",
+    status: "Pending",
+    statusColor: "warning",
+  },
+  {
+    productName: "Lozenge",
+    productNumber: "00",
+    payment: "Paid",
+    status: "Delivered",
+    statusColor: "primary",
+  },
+];
